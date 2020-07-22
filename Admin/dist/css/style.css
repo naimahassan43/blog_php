@@ -1,0 +1,27 @@
+/* Table Action bar */
+.action-bar ul  {
+	padding:0;
+	margin:0; 
+}
+.action-bar ul li {
+	list-style: none;
+	display: inline;
+	margin: 0 3px;
+}
+.action-bar ul li .fa-edit{
+	color: #17a2b8;
+}
+.action-bar ul li .fa-trash{
+	color: #dc3545;
+}
+/* Modal Confirmation */
+.modal-confirmation ul{
+	padding: 0;
+	margin: 0;
+}
+.modal-confirmation ul li{
+	list-style: none;
+	display: inline;
+	margin: 0 3px;
+
+}
